@@ -1,0 +1,6 @@
+{
+  "name": "Bleue! Coffee Shop",
+  "description": "Modern blue and white website for Bleue! Coffee Shop in Sidi Bou Said, featuring an interactive menu, photo gallery, table reservation, and contact details.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

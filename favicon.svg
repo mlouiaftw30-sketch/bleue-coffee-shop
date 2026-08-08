@@ -1,0 +1,4 @@
+<svg viewBox="0 0 200 200" xmlns="http://www.w3.org/2000/svg">
+  <circle cx="100" cy="100" r="100" fill="#1D63ED" />
+  <text x="100" y="118" font-family="'Playfair Display', Georgia, serif" font-style="italic" font-weight="900" font-size="62" fill="#FFFFFF" text-anchor="middle" letter-spacing="-1.5px">bleue!</text>
+</svg>

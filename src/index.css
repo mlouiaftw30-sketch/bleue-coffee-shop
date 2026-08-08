@@ -1,0 +1,37 @@
+@import "tailwindcss";
+
+@layer base {
+  body {
+    font-family: 'Plus Jakarta Sans', system-ui, -apple-system, sans-serif;
+    color: #0f172a;
+    background-color: #ffffff;
+  }
+
+  h1, h2, h3, .font-serif {
+    font-family: 'Playfair Display', Georgia, serif;
+  }
+}
+
+.editorial-title {
+  font-family: 'Playfair Display', Georgia, serif;
+  font-style: italic;
+  font-weight: 900;
+}
+
+.editorial-border-dotted {
+  border-bottom: 1px dotted #cbd5e1;
+}
+
+.editorial-accent-line {
+  position: relative;
+}
+
+.editorial-accent-line::before {
+  content: '';
+  position: absolute;
+  left: 0;
+  bottom: -6px;
+  width: 48px;
+  height: 3px;
+  background-color: #1e3a8a;
+}
